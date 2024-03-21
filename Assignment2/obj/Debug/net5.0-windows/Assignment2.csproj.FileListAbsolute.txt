@@ -1,0 +1,62 @@
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\refint\Assignment2.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Student.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Questions.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Subjects.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Quiz.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Login.resources
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Results.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.exe
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.deps.json
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.json
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.runtimeconfig.dev.json
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\Assignment2.pdb
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.AssemblyReference.cache
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Login.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Properties.Resources.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Questions.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Quiz.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Results.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Student.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.Subjects.resources
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.GenerateResource.cache
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfoInputs.cache
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.AssemblyInfo.cs
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.csproj.CopyComplete
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\refint\Assignment2.dll
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.pdb
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\Assignment2.genruntimeconfig.cache
+D:\APIIT\Level 4\SDAM\Assignment\CB010959\Assignment2\Assignment2\obj\Debug\net5.0-windows\ref\Assignment2.dll
